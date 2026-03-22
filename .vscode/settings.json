@@ -1,0 +1,13 @@
+{
+    "42header.username": "axlee",
+    "42header.email": "axlee@student.42.fr",
+    "editor.formatOnSave": false,
+    "[c]": {
+        "editor.defaultFormatter": null,
+        "editor.formatOnSave": false,
+        "editor.insertSpaces": false,
+        "editor.tabSize": 4
+    },
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true
+}
